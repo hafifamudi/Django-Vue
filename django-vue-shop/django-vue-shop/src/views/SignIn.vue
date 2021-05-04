@@ -41,7 +41,7 @@
 <script>
 import axios from 'axios'
 export default {
-    name: 'LogIn',
+    name: 'SignIn',
     data() {
         return {
             username: '',
